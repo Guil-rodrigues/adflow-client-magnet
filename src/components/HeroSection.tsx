@@ -67,7 +67,7 @@ const HeroSection = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-whatsapp rounded-2xl blur-2xl opacity-20 transform rotate-6 scale-105"></div>
               <img 
-                src={guilImage} 
+                src="https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
                 alt="Guil Rodrigues - Gestor de Tráfego" 
                 className="relative w-80 md:w-96 lg:w-full max-w-lg rounded-2xl shadow-2xl border-4 border-white/20"
               />
